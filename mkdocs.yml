@@ -1,0 +1,28 @@
+site_name: Ricardo Verhaeg
+site_author: Ricardo Verhaeg
+site_url: http://rverhaeg.com
+
+copyright: 'Copyright &copy; Ricardo Verhaeg'
+
+# Repository
+repo_name: 'Verhaeg/site'
+repo_url: 'https://github.com/Verhaeg/site'
+
+theme: material
+
+pages:
+  - Home: index.md
+  - About: about.md
+
+extra:
+  palette:
+    primary: blue grey
+    accent: orange
+  # logo: img/logo.svg
+  social:
+    - type: github
+      link: https://github.com/Verhaeg
+    - type: twitter
+      link: https://twitter.com/Holandes
+    - type: linkedin
+      link: https://linkedin.com/in/rverhaeg
