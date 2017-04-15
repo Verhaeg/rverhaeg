@@ -6,8 +6,8 @@ site_dir: rverhaeg.com
 copyright: 'Copyright &copy; Ricardo Verhaeg'
 
 # Repository
-repo_name: 'Verhaeg/site'
-repo_url: 'https://github.com/Verhaeg/site'
+repo_name: 'Verhaeg/rverhaeg'
+repo_url: 'https://github.com/Verhaeg/rverhaeg'
 
 theme: material
 
