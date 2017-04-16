@@ -1,13 +1,9 @@
-# Welcome to Coffee, Beer and DevOps
+# Cerveja & DevOps
 
-## Latest on Coffee
+## :: Últimas em Cerveja
 
-Nothing to see here yet =/
+### [2017-04-16 :: Heilige Saison](beer/2017-04-16-heilige.md)
 
-## Latest on Beer
-
-Nothing to see here yet =/
-
-## Latest on DevOps
+## :: Últimas em DevOps
 
 Nothing to see here yet =/

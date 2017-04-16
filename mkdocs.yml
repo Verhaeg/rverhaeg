@@ -1,6 +1,6 @@
-site_name: Coffee, Beer and DevOps
+site_name: Cerveja & DevOps
 site_author: Ricardo Verhaeg
-site_description: Some thoughts on coffee, beers and DevOps!
+site_description: Pensamentos, ideias e soluções em Cerveja & DevOps
 site_url: https://rverhaeg.com
 site_dir: rverhaeg.com
 
@@ -14,10 +14,9 @@ theme: material
 
 pages:
   - Home: index.md
-  - Coffee:
-    - Blends: coffee/blends.md
   - Beer:
     - Top: beer/top.md
+    - 2017-05-16 Heilige: beer/2017-04-16-heilige.md
   - DevOps:
     - Tools: devops/tools.md
     - Issues: devops/issues.md
@@ -29,7 +28,7 @@ markdown_extensions:
   - sane_lists
   - footnotes
   # - toc:
-  #   permalink: True
+  #   - permalink: True
 
 extra:
   palette:

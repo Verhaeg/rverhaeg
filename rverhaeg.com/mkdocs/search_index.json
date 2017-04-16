@@ -2,38 +2,38 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to Coffee, Beer and DevOps\n\n\nLatest on Coffee\n\n\nNothing to see here yet =/\n\n\nLatest on Beer\n\n\nNothing to see here yet =/\n\n\nLatest on DevOps\n\n\nNothing to see here yet =/", 
+            "text": "Cerveja \n DevOps\n\n\n:: \u00daltimas em Cerveja\n\n\n2017-04-16 :: Heilige Saison\n\n\n:: \u00daltimas em DevOps\n\n\nNothing to see here yet =/", 
             "title": "Home"
         }, 
         {
-            "location": "/#welcome-to-coffee-beer-and-devops", 
+            "location": "/#cerveja-devops", 
             "text": "", 
-            "title": "Welcome to Coffee, Beer and DevOps"
+            "title": "Cerveja &amp; DevOps"
         }, 
         {
-            "location": "/#latest-on-coffee", 
-            "text": "Nothing to see here yet =/", 
-            "title": "Latest on Coffee"
-        }, 
-        {
-            "location": "/#latest-on-beer", 
-            "text": "Nothing to see here yet =/", 
-            "title": "Latest on Beer"
-        }, 
-        {
-            "location": "/#latest-on-devops", 
-            "text": "Nothing to see here yet =/", 
-            "title": "Latest on DevOps"
-        }, 
-        {
-            "location": "/coffee/blends/", 
+            "location": "/#ultimas-em-cerveja", 
             "text": "", 
-            "title": "Blends"
+            "title": ":: \u00daltimas em Cerveja"
+        }, 
+        {
+            "location": "/#2017-04-16-heilige-saison", 
+            "text": "", 
+            "title": "2017-04-16 :: Heilige Saison"
+        }, 
+        {
+            "location": "/#ultimas-em-devops", 
+            "text": "Nothing to see here yet =/", 
+            "title": ":: \u00daltimas em DevOps"
         }, 
         {
             "location": "/beer/top/", 
             "text": "", 
             "title": "Top"
+        }, 
+        {
+            "location": "/beer/2017-04-16-heilige/", 
+            "text": "as", 
+            "title": "2017-05-16 Heilige"
         }, 
         {
             "location": "/devops/tools/", 
