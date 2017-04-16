@@ -2,23 +2,48 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "text": "Welcome to Coffee, Beer and DevOps\n\n\nLatest on Coffee\n\n\nNothing to see here yet =/\n\n\nLatest on Beer\n\n\nNothing to see here yet =/\n\n\nLatest on DevOps\n\n\nNothing to see here yet =/", 
             "title": "Home"
         }, 
         {
-            "location": "/#welcome-to-mkdocs", 
-            "text": "For full documentation visit  mkdocs.org .", 
-            "title": "Welcome to MkDocs"
+            "location": "/#welcome-to-coffee-beer-and-devops", 
+            "text": "", 
+            "title": "Welcome to Coffee, Beer and DevOps"
         }, 
         {
-            "location": "/#commands", 
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
-            "title": "Commands"
+            "location": "/#latest-on-coffee", 
+            "text": "Nothing to see here yet =/", 
+            "title": "Latest on Coffee"
         }, 
         {
-            "location": "/#project-layout", 
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
-            "title": "Project layout"
+            "location": "/#latest-on-beer", 
+            "text": "Nothing to see here yet =/", 
+            "title": "Latest on Beer"
+        }, 
+        {
+            "location": "/#latest-on-devops", 
+            "text": "Nothing to see here yet =/", 
+            "title": "Latest on DevOps"
+        }, 
+        {
+            "location": "/coffee/blends/", 
+            "text": "", 
+            "title": "Blends"
+        }, 
+        {
+            "location": "/beer/top/", 
+            "text": "", 
+            "title": "Top"
+        }, 
+        {
+            "location": "/devops/tools/", 
+            "text": "", 
+            "title": "Tools"
+        }, 
+        {
+            "location": "/devops/issues/", 
+            "text": "", 
+            "title": "Issues"
         }, 
         {
             "location": "/about/", 

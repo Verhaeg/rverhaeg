@@ -1,6 +1,7 @@
-site_name: Ricardo Verhaeg
+site_name: Coffee, Beer and DevOps
 site_author: Ricardo Verhaeg
-site_url: http://rverhaeg.com
+site_description: Some thoughts on coffee, beers and DevOps!
+site_url: https://rverhaeg.com
 site_dir: rverhaeg.com
 
 copyright: 'Copyright &copy; Ricardo Verhaeg'
@@ -13,7 +14,22 @@ theme: material
 
 pages:
   - Home: index.md
+  - Coffee:
+    - Blends: coffee/blends.md
+  - Beer:
+    - Top: beer/top.md
+  - DevOps:
+    - Tools: devops/tools.md
+    - Issues: devops/issues.md
   - About: about.md
+
+markdown_extensions:
+  - codehilite
+  - smarty
+  - sane_lists
+  - footnotes
+  # - toc:
+  #   permalink: True
 
 extra:
   palette:

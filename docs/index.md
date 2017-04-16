@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+# Welcome to Coffee, Beer and DevOps
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+## Latest on Coffee
 
-## Commands
+Nothing to see here yet =/
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+## Latest on Beer
 
-## Project layout
+Nothing to see here yet =/
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Latest on DevOps
+
+Nothing to see here yet =/
